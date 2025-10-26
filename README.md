@@ -1,4 +1,4 @@
-# 🚀 AWS Data Engineering Pipeline – Bronze–Silver–Gold Architecture
+# 🚀 AWS Data Engineering Pipeline – Bronze–Silver–Gold Architecture - Data Modeling
 End-to-end AWS Data Engineering project implementing Bronze–Silver–Gold architecture using Amazon S3, Kinesis, Glue, Databricks, and Redshift for automated data ingestion, transformation, and analytics.
 
 ## 📌 Overview
